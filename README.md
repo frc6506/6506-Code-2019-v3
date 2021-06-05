@@ -5,4 +5,6 @@ Upstream: https://github.com/x64-bit/6506-Code-2019-v3
 Team website: https://steelboot.weebly.com
 Email Address: FRCteam6506@gmail.com
 
+## Original repository description:
+
 Third rewrite of 6506 code with proper CommandBased implementation. Theoretically works - never tested lol
